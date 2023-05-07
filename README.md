@@ -3,7 +3,7 @@
 
 - 🏫 I’m currently studying for a [BTS SIO](https://www.btsinfo.fr/)
 
-- 🌱 I’m currently learning **Python programming**
+- 🌱 I’m currently learning **Django and React.js**
 
 - 👨‍💻 All of my projects are available at [glopez.xyz](glopez.xyz)
 
