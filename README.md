@@ -1,13 +1,13 @@
 <h1 align="center">Welcome 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate IT student from Paris 🇫🇷</h3>
 
-- 🏫 I’m currently studying for a [BTS SIO](https://www.btsinfo.fr/)
+- 🏫 I’m a student in [BTS SIO](https://www.btsinfo.fr/)
 
 - 🌱 I’m currently learning **Django and React.js**
 
-- 👨‍💻 All of my projects are available at [glopez.xyz](glopez.xyz)
+<!-- 👨‍💻 All of my projects are available at [glopez.xyz](glopez.xyz) -->
 
-- 📫 How to reach me **glopez-dev@proton.me**
+- 📫 You can reach me at **glopez-dev@proton.me**
 
 </p>
 
