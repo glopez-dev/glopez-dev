@@ -1,9 +1,9 @@
 <h1 align="center">Welcome 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate IT student from Paris 🇫🇷</h3>
 
-- 🏫 I’m a student in [BTS SIO](https://www.btsinfo.fr/)
+- 🏫 I’m a student in [Pre Msc](https://www.epitech.eu/fr/formations/pre-msc/) at Epitech Technology
 
-- 🌱 I’m currently learning **Django and React.js**
+- 🌱 I’m currently learning **Express.js**
 
 <!-- 👨‍💻 All of my projects are available at [glopez.xyz](glopez.xyz) -->
 
