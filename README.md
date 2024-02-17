@@ -3,7 +3,7 @@
 
 - 🏫 I’m a student in [Pre Msc](https://www.epitech.eu/fr/formations/pre-msc/) at Epitech Technology
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **DevOps**
 
 <!-- 👨‍💻 All of my projects are available at [glopez.xyz](glopez.xyz) -->
 
