@@ -31,12 +31,12 @@ I’m a student in [Msc Big Data](https://www.epitech.eu/formation-alternance/ma
 - [T-YEP-600-FinalProject]()
 
 ### Semester 5
-- [T-JAV-500-Seminar-AppDev]()
 - [T-JAV-501-2D-Game]()
-- [T-NSA-500-Seminar-DevOps]()
+- [T-JAV-500-Application-Development-Seminar]()
 - [T-NSA-501-You-Shall-Not-Pass]()
-- [T-WEB-500-Seminar-WebDev]()
+- [T-NSA-500-DevOps-Seminar]()
 - [T-WEB-501-JobBoard]()
+- [T-WEB-500-Web-Development-Seminar]()
 - [T-PRE-500-Preparation-Seminar](https://github.com/glopez-dev/T-PRE-500-Preparation-Seminar)
 
 
