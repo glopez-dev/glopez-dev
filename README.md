@@ -37,7 +37,7 @@ I’m a student in [Msc Big Data](https://www.epitech.eu/formation-alternance/ma
 - [T-NSA-501-You-Shall-Not-Pass]()
 - [T-WEB-500-Seminar-WebDev]()
 - [T-WEB-501-JobBoard]()
-- [T-PRE-500-Pool-Preparation]()
+- [T-PRE-500-Preparation-Seminar](https://github.com/glopez-dev/T-PRE-500-Preparation-Seminar)
 
 
 
