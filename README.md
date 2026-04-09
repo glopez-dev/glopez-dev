@@ -3,7 +3,10 @@ I’m a student in [Msc Big Data](https://www.epitech.eu/formation-alternance/ma
 
 # My projects 
 
-## Epitech 
+## Epitech
+
+## End of studies project
+- [Whispr Messenger](https://github.com/whispr-messenger)
 
 ### Semester 10
 - [T-DAT-902-Homepedia](https://github.com/T-DAT-902-Homepedia/Homepedia)
